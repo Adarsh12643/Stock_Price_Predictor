@@ -22,7 +22,7 @@ pip install yfinance pandas numpy matplotlib scikit-learn
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/stock-linear-regression.git
+   git clone https://github.com/Adarsh12643/stock-linear-regression.git
    ```
 2. **Navigate to the directory:**
    ```bash
