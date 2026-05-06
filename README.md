@@ -1,4 +1,4 @@
-# Stock Price Trend Analysis with Linear Regression
+# Stock Price Predictor
 
 This project demonstrates a basic machine learning workflow to analyze and predict stock price trends using Python. It uses historical data from Yahoo Finance to train a Linear Regression model that predicts stock closing prices based on time.
 
